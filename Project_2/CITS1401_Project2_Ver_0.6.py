@@ -1,6 +1,4 @@
 # UTF-8
-# Student ID: 24729742
-# Name: Scout Wu / Wenbo Wu
 # Date: Mat.6, 2025
 # Program Description: CITS1401 Project 2
 

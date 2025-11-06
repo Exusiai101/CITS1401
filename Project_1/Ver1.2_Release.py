@@ -1,6 +1,4 @@
 # UTF-8
-# Student ID: 
-# Name: 
 # Date: Mar. 29, 2025
 # Program Desccription: CITS1401 Project 1 Process Australian population Data
 
